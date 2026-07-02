@@ -1,6 +1,6 @@
 """
 Sistema de Gestión de Pedidos - Versión de Práctica
-Calidad de Software - Actividad SonarLint (CORREGIDO)
+Calidad de Software - Actividad SonarLint
 """
 
 import os
